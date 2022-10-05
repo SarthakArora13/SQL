@@ -1,7 +1,7 @@
 use college;
 create table student(USN_Number varchar(10),Sname varchar(30),Address varchar(30),Phone bigint,Gender char(5));
 
-insert into student values('BCA1','Sarthak Arora','BH-471 Shalimar Bagh',9971841715,'Male');
+insert into student values('BCA1','Sarthak Arora','B-41 Moti Bagh',9971841715,'Male');
 insert into student values('BCA2','Manish Paul','A89 Punjabi Bagh',9230145731,'Male');
 insert into student values('BCA3','Manvi Garg','Z45-D Paschim Vihar',9201459832,'Female');
 insert into student values('BCA4','Nita Khurana','X34/38 Raja Garden',9560126543,'Female');
